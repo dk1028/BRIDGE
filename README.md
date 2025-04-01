@@ -1,4 +1,4 @@
-# BRIDGE
+# BRIDGE Mentorship Program, Winter 2025, Department of Computer Science, McGill University
 
 # Integrating Genomic Variants and Clinical Text for Cancer Treatment Prediction: A Deterministic and Bayesian Deep Learning Framework
 
